@@ -1,0 +1,17 @@
+Testcase: edu.umb.cs680.hw05.ModelABC.PrintJobExecuterTest
+Test: FailedAuthentication() took 40 milli sec(s)
+Test: AbortPrintWhenLoggedOut() took 0 milli sec(s)
+Test: checkFlow() took 8 milli sec(s)
+Test: Authenticationsucceeds() took 0 milli sec(s)
+Test: PrintWhenLoggedIn() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 96 milli sec(s)
+------------- Standard Output ---------------
+state changed
+logged in
+Printing job started...
+state changed
+logged in
+state changed
+logged in
+Printing job started...
+------------- ---------------- ---------------
