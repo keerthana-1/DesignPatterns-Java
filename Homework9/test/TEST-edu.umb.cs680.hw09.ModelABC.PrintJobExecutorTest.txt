@@ -1,0 +1,9 @@
+Testcase: edu.umb.cs680.hw09.ModelABC.PrintJobExecutorTest
+Test: PrintJobTest() took 47 milli sec(s)
+Test: AbortPrintWhenLoggedOut() took 0 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 63 milli sec(s)
+------------- Standard Output ---------------
+state changed
+logged in
+Printing job started...
+------------- ---------------- ---------------
