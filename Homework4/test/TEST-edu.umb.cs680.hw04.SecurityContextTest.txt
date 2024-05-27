@@ -1,0 +1,15 @@
+Testcase: edu.umb.cs680.hw04.SecurityContextTest
+Test: CheckLogout() took 48 milli sec(s)
+Test: CheckdefaultLogout() took 0 milli sec(s)
+Test: CheckFailedLogin() took 8 milli sec(s)
+Test: CheckSuccessfulLogin() took 0 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 80 milli sec(s)
+------------- Standard Output ---------------
+state changed
+logged in
+state changed
+logged out
+Authentication failed
+state changed
+logged in
+------------- ---------------- ---------------
