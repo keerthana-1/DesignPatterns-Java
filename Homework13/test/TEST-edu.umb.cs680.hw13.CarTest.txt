@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw13.CarTest
+Test: MileageComparatorTest() took 15 milli sec(s)
+Test: YearComparatorTestReverseOrder() took 0 milli sec(s)
+Test: PriceComparatorTestReverseorder() took 0 milli sec(s)
+Test: PriceComparatorTest() took 0 milli sec(s)
+Test: MileageComparatorTestReverseOrder() took 0 milli sec(s)
+Test: YearComparatorTest() took 0 milli sec(s)
+Test: ParetoComparatorTestReverseOrder() took 16 milli sec(s)
+Test: ParetoComparatorTest() took 0 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 63 milli sec(s)
