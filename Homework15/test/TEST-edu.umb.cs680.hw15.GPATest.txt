@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw15.GPATest
+Test: testGPAOnScale5() took 32 milli sec(s)
+Test: testGPAOnScale8() took 0 milli sec(s)
+Test: testGPAOnScale10() took 0 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 63 milli sec(s)
