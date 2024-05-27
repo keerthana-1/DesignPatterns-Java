@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw08.fs.util.FileCrawlingVisitorTest
+Test: getFilesinTest_src() took 0 milli sec(s)
+Test: getAllFilesinprjRoot() took 0 milli sec(s)
+Test: getFilesinprjRoot_src() took 0 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 0 milli sec(s)
